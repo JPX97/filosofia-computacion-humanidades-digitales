@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-08T09:41:44.292Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="apec-j9AQbrrKim-MOhq" version="17.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-08T10:16:14.989Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="zNET78OYEZbF9q5VhxWc" version="17.4.4" type="github">
   <diagram id="Wtd_sJ8rBiIMwc7lSpW-" name="Page-1">
     <mxGraphModel dx="1833" dy="1043" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -7,11 +7,11 @@
         <mxCell id="9DuvOHGDFSPzMcPhEB32-3" style="edgeStyle=orthogonalEdgeStyle;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="9DuvOHGDFSPzMcPhEB32-1" target="9DuvOHGDFSPzMcPhEB32-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9DuvOHGDFSPzMcPhEB32-1" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Conocimiento en Red&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;rounded=0;sketch=1;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="500" y="360" width="150" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="9DuvOHGDFSPzMcPhEB32-6" style="edgeStyle=orthogonalEdgeStyle;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="9DuvOHGDFSPzMcPhEB32-2" target="9DuvOHGDFSPzMcPhEB32-5">
+        <mxCell id="9DuvOHGDFSPzMcPhEB32-13" style="edgeStyle=orthogonalEdgeStyle;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="9DuvOHGDFSPzMcPhEB32-1" target="9DuvOHGDFSPzMcPhEB32-12">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9DuvOHGDFSPzMcPhEB32-1" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Conocimiento en Red&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;rounded=0;sketch=1;fontSize=17;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="500" y="330" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="9DuvOHGDFSPzMcPhEB32-9" style="edgeStyle=orthogonalEdgeStyle;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="9DuvOHGDFSPzMcPhEB32-2" target="9DuvOHGDFSPzMcPhEB32-8">
           <mxGeometry relative="1" as="geometry" />
@@ -19,17 +19,40 @@
         <mxCell id="9DuvOHGDFSPzMcPhEB32-10" style="edgeStyle=orthogonalEdgeStyle;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="9DuvOHGDFSPzMcPhEB32-2" target="9DuvOHGDFSPzMcPhEB32-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9DuvOHGDFSPzMcPhEB32-2" value="Conceptos claves" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="750" y="140" width="120" height="60" as="geometry" />
+        <mxCell id="9DuvOHGDFSPzMcPhEB32-11" style="edgeStyle=orthogonalEdgeStyle;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="9DuvOHGDFSPzMcPhEB32-2" target="9DuvOHGDFSPzMcPhEB32-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9DuvOHGDFSPzMcPhEB32-5" value="Conocimiento" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontSize=16;align=left;" vertex="1" parent="1">
-          <mxGeometry x="950" y="80" width="270" height="60" as="geometry" />
+        <mxCell id="9DuvOHGDFSPzMcPhEB32-2" value="Conceptos claves" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="750" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9DuvOHGDFSPzMcPhEB32-7" value="Colaboración" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontSize=16;align=left;" vertex="1" parent="1">
-          <mxGeometry x="950" y="220" width="270" height="60" as="geometry" />
+        <mxCell id="9DuvOHGDFSPzMcPhEB32-15" style="edgeStyle=orthogonalEdgeStyle;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="9DuvOHGDFSPzMcPhEB32-5" target="9DuvOHGDFSPzMcPhEB32-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9DuvOHGDFSPzMcPhEB32-8" value="Red" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontSize=16;align=left;" vertex="1" parent="1">
-          <mxGeometry x="950" y="150" width="270" height="60" as="geometry" />
+        <mxCell id="9DuvOHGDFSPzMcPhEB32-5" value="&lt;b&gt;Conocimiento&lt;/b&gt; &lt;i&gt;(&lt;a href=&quot;https://dle.rae.es/conocimiento&quot;&gt;RAE&lt;/a&gt;)&lt;/i&gt;: &lt;br&gt;1. Percibir todo lo que algo no es.&lt;br&gt;2. Noción de la naturaleza, cualidades y relaciones de las cosas.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontSize=16;align=left;" vertex="1" parent="1">
+          <mxGeometry x="950" y="50" width="310" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="9DuvOHGDFSPzMcPhEB32-7" value="&lt;b&gt;Colaborar&lt;/b&gt; &lt;i&gt;(&lt;a href=&quot;https://dle.rae.es/colaborar&quot;&gt;RAE&lt;/a&gt;)&lt;/i&gt;:&lt;br&gt;1.&amp;nbsp;Trabajar con otra u otras personas en la realización de una obra." style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontSize=16;align=left;" vertex="1" parent="1">
+          <mxGeometry x="950" y="270" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9DuvOHGDFSPzMcPhEB32-16" style="edgeStyle=orthogonalEdgeStyle;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="9DuvOHGDFSPzMcPhEB32-8" target="9DuvOHGDFSPzMcPhEB32-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9DuvOHGDFSPzMcPhEB32-8" value="&lt;b&gt;Red&lt;/b&gt; &lt;i&gt;(&lt;a href=&quot;https://dle.rae.es/red&quot;&gt;RAE&lt;/a&gt;)&lt;/i&gt;:&lt;br&gt;1. Conjunto de equipos informáticos conectados entre sí y que pueden intercambiar información." style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontSize=16;align=left;" vertex="1" parent="1">
+          <mxGeometry x="950" y="160" width="310" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="9DuvOHGDFSPzMcPhEB32-12" value="Gestión del conocimiento" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="750" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9DuvOHGDFSPzMcPhEB32-18" style="edgeStyle=orthogonalEdgeStyle;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="9DuvOHGDFSPzMcPhEB32-14" target="9DuvOHGDFSPzMcPhEB32-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9DuvOHGDFSPzMcPhEB32-19" value="&lt;i style=&quot;font-size: 14px&quot;&gt;Por lo que el conocimiento en red, &lt;br&gt;es aquel producto de la colaboración.&lt;/i&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;" vertex="1" connectable="0" parent="9DuvOHGDFSPzMcPhEB32-18">
+          <mxGeometry x="-0.742" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9DuvOHGDFSPzMcPhEB32-14" value="&lt;b&gt;Conocimiento en red&lt;/b&gt;: &lt;br&gt;1. Aquel conocimiento obtenido y desarrollado mediante el intercambio de información." style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontSize=16;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="110" width="310" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
