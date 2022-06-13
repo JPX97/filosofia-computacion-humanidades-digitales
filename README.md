@@ -8,3 +8,5 @@ En la carpeta **A1_Jiménez_Juan Pablo** se encuentra la primera tarea propuest
 La segunda carpeta **A2_Jiménez_Juan Pablo** aloja el comentario crítico del artículo "**La emergencia de una tercera cultura: la cultura digitalmente mediada**" de J. Francisco Álvarez y C. Victoria Marrero publicado en Cuadernos Hispanoamericanos. no 761. diciembre 2013. Se encuentra tanto en formato [Markdown](https://es.wikipedia.org/wiki/Markdown) como en .docx.
 
 La tercera carpeta **A3_Jiménez_Juan Pablo** contiene la memoria de las actividades colaborativas realizadas en el contexto de la asignatura #filhduned.
+
+En la última carpeta **Ensayo** contiene el trabajo final que profundiza en la "Colaboración en entornos digitales y complejos: impacto en la organización de los equipos"
